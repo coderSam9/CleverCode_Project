@@ -130,7 +130,7 @@ const UserDetails = () => {
           className="px-4 py-2 m-2 hover:bg-customGreen bg-blue-600 text-white rounded"
           onClick={handleYearWrapped}
         >
-          Year Wrapped
+          Performance
         </button>
       </div>
     </div>
